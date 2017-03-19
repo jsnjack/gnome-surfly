@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist >
+    <schema id="org.gnome.shell.extensions.surfly" path="/org/gnome/shell/extensions/surfly/">
+        <key type="as" name="create-session-keys">
+            <default>["&lt;Mod4&gt;x"]</default>
+            <summary>Start Surfly session</summary>
+            <description>Automatically starts Surfly session and places url into clipboard</description>
+        </key>
+        <key type="s" name="server-name">
+            <default>"surfly.com"</default>
+            <summary>Start Surfly on that server</summary>
+        </key>
+        <key type="s" name="api-key">
+            <default>""</default>
+            <summary>API key that is used to create a Surfly session</summary>
+        </key>
+        <key type="s" name="default-url">
+            <default>"https://google.com/ncr"</default>
+            <summary>Start Surfly session on that website</summary>
+        </key>
+    </schema>
+</schemalist>

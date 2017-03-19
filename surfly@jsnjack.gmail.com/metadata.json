@@ -1,0 +1,6 @@
+{
+    "name": "Surfly",
+    "uuid": "surfly@jsnajck.gmail.com",
+    "description": "Automatically create a Surfly session",
+    "shell-version": ["3.22"]
+}

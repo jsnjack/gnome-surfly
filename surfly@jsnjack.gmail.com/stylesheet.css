@@ -1,0 +1,23 @@
+.surfer {
+    font-size: 100px;
+    color: #ffffff;
+    background-color: rgba(10,10,10,0.7);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.wave {
+    font-size: 100px;
+    color: #ffffff;
+    background-color: rgba(10,10,10,0.7);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.text {
+    font-size: 36px;
+    color: #ffffff;
+    background-color: rgba(10,10,10,0.7);
+    border-radius: 5px;
+    padding: 10px;
+}
